@@ -1,0 +1,61 @@
+{
+  "stations": [
+    {
+      "LOFI": [
+        { "name": "LOFI GIRL", "videoId": "jfKfPfyJRdk" },
+        { "name": "CHILLHOP MUSIC", "videoId": "7NOSDKb0HlU" },
+        { "name": "STEEZYASFUCK", "videoId": "rPjez8z61rI" },
+        { "name": "THE BOOTLEG BOY 2", "videoId": "ralJmHG-DII" },
+        { "name": "AFRO-LOFI", "videoId": "KMXZF-K2mus" },
+        { "name": "RAP-LOFI", "videoId": "0DztVOeomsk-DII" }
+      ]
+    },
+    {
+      "JAZZ": [
+        { "name": "CAFE MUSIC BGM", "videoId": "Dx5qFachd3A" },
+        { "name": "COZY COFFEE SHOP", "videoId": "JJq34sWY4GY" },
+        { "name": "PIANO JAZZ MUSIC", "videoId": "fTb6yJ7AlT8" }
+      ]
+    },
+    {
+      "HIP HOP": [
+        { "name": "HIP-HOP-CLASSIC", "videoId": "D-zIdinmiD8" },
+        { "name": "BEST OF MIX", "videoId": "urikT3Act8w" },
+        { "name": "RAP MAFIA", "videoId": "0MOkLkTP-Jk" },
+        { "name": "MATTHEW CHAVEZ", "videoId": "86XzuPmMriw" }
+      ]
+    },
+    {
+      "SYNTHWAVE": [
+        { "name": "SYNTHWAVE LOFI", "videoId": "4xDzrJKXOOY" },
+        { "name": "NIGHTRIDE FM", "videoId": "UedTcufyrHc" },
+        { "name": "STARBRUST", "videoId": "qnStVGoIgBA" },
+        { "name": "THE '80S GUY", "videoId": "MGJWPha7rJw" }
+      ]
+    },
+    {
+      "HOUSE": [
+        { "name": "TOMORROWLAND RADIO", "videoId": "ATkRj9XudOA" },
+        { "name": "Toolroom Live", "videoId": "yGlB3GKfNBI" },
+        { "name": "Defected Records", "videoId": "0rmvjfMwnJc" },
+        { "name": "Tropical House Radio", "videoId": "WsDyRAPFBC8" }
+      ]
+    },
+    {
+      "NEPALI LOFI": [
+        { "name": "Jvxe  Mgrx", "videoId": "F6rLBOI_9UE" },
+        { "name": "Nepali slowed & reverb", "videoId": "Y20OmHaGl4g" },
+        { "name": "HURTS", "videoId": "yGlB3GKfNBI" },
+        { "name": "Senpai", "videoId": "zF4T25dioVA" }
+      ]
+    },
+    {
+      "HINDI LOFI": [
+        { "name": "aMeth Music", "videoId": "KRA26LhuTP4" },
+        { "name": " Shashank Agarwal", "videoId": "YFJ4woeQt7U" },
+        { "name": "Ronak Bhatt", "videoId": "creLU_IYjcs" },
+        { "name": "One lofi", "videoId": "1CwZ-U7UEs" }
+      ]
+    }
+  ]
+}

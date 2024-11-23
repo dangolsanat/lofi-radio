@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Font Family -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <title>Lo-Fi Radio</title>
+    <!-- Removed direct link to style.css as it's bundled -->
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- YouTube iframe API -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <!-- Webpack will inject bundle.js here via HtmlWebpackPlugin -->
+    <!-- Removed the manual script tag to prevent duplication -->
+  <script defer src="main.bundle.js"></script></body>
+</html>
